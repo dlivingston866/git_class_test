@@ -2,4 +2,4 @@
 D over
 ### purpose
 
-the purp[ose of this repository id to learn hw to use git hub]
+The purpose of this repository id to learn how to use git hub.
